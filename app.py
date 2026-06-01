@@ -9,7 +9,7 @@ MODEL_PATH = "runs/detect/fish_detector/weights/best.pt"
 
 # --- PAGE SETUP ---
 st.set_page_config(page_title="Fish Detection App", layout="wide")
-st.title("🐟 Fish Detection System")
+st.title("🐟 FISH DETECTION")
 st.write("Upload an image of a fish to detect its location and class.")
 
 # --- SIDEBAR SETTINGS ---
